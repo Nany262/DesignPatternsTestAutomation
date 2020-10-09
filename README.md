@@ -1,1 +1,1 @@
-# DesignPatternsTestAutomation
+# Design patterns for test automation
