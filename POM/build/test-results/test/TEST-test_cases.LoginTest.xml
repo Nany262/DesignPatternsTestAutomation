@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_cases.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-14T21:18:07" hostname="SBMEDLAPPRODZ4" time="16.282">
+  <properties/>
+  <testcase name="LoginUser" classname="test_cases.LoginTest" time="16.282"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 36228
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1602710290.120][WARNING]: This version of ChromeDriver has not been tested with Chrome version 86.
+oct 14, 2020 4:18:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
