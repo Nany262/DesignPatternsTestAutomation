@@ -16,6 +16,7 @@
 
 # Serenity-BDD
 */target/
+target/
 
 # Intellij
 .idea/
