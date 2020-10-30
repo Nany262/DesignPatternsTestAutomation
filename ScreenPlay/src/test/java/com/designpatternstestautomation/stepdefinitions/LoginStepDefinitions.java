@@ -34,7 +34,7 @@ public class LoginStepDefinitions {
     }
 
     @When("he logs in with his {string} and {string}")
-    public void heLogsInWithHisAnd(String string, String string2) {
+    public void heLogsInWithHisAnd(String user, String password) {
 
     }
 
