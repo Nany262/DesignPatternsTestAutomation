@@ -60,6 +60,7 @@
     <Compile Include="Purchase Tests Version 1\Driver.cs" />
     <Compile Include="Purchase Tests Version 1\DriverDecorator.cs" />
     <Compile Include="Purchase Tests Version 1\Element.cs" />
+    <Compile Include="Purchase Tests Version 1\ElementDecorator.cs" />
     <Compile Include="Purchase Tests Version 1\LogElement.cs" />
     <Compile Include="Purchase Tests Version 1\LoggingDriver.cs" />
     <Compile Include="Purchase Tests Version 1\WebDriver.cs" />

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PatternTest.Purchase_Tests_Version_1
 {
-    class LogElement : ElementDecorator
+    public class LogElement : ElementDecorator
     {
 
     }
