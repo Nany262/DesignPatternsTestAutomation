@@ -56,6 +56,11 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Purchase Tests Version 1\Browser.cs" />
+    <Compile Include="Purchase Tests Version 1\Driver.cs" />
+    <Compile Include="Purchase Tests Version 1\Element.cs" />
+    <Compile Include="Purchase Tests Version 1\WebDriver.cs" />
+    <Compile Include="Purchase Tests Version 1\WebElement.cs" />
     <Compile Include="TestDemo.cs" />
   </ItemGroup>
   <ItemGroup>
